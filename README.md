@@ -43,13 +43,9 @@
 <img src="https://user-images.githubusercontent.com/61349423/95949981-6401bb00-0e11-11eb-93ce-6bdc7960f11e.gif" width="250" height="500">
 
 
-## Authors
-
-* **Belgin Android** - *All Works* - [Belgin Android](https://github.com/Belgin-Android)
-
 ## Issues ?
 
-* Contact Me At [Instagram](https://www.instagram.com/letonations/)
+* Contact Me At [Instagram](https://instagram.com/jaiswal_005_?igshid=MmIzYWVlNDQ5Yg==)
 
 ## Acknowledgments
 
